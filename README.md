@@ -359,7 +359,7 @@ STM32设备需要使用MQTT协议连接到服务器。这个过程需要指定�
 
 ## 效果展示
 
-<img src="../GitHub_cy/EnviInfoCollector/assets/IMG_0174 (1).webp" style="zoom: 67%;" />
+<img src="assets/IMG_0174 (1).webp" style="zoom: 67%;" />
 
  ![show](assets/show.gif)
 
